@@ -1,0 +1,79 @@
+.u-section-1-1 {
+  background-image: url("images/V_Ep_03_REFLECTION_Article-Header.webp");
+  background-position: 50% 50%;
+}
+
+.u-section-1-1 .u-sheet-1 {
+  min-height: 521px;
+}
+
+.u-section-1-1 .u-text-1 {
+  font-weight: 700;
+  width: 564px;
+  margin: 190px auto 60px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1-1 .u-sheet-1 {
+    min-height: 430px;
+  }
+
+  .u-section-1-1 .u-text-1 {
+    width: auto;
+    margin-top: 60px;
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1-1 .u-sheet-1 {
+    min-height: 329px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1-1 .u-sheet-1 {
+    min-height: 247px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1-1 .u-sheet-1 {
+    min-height: 156px;
+  }
+}.u-block-d25d-2 {
+  position: absolute;
+  bottom: 10px;
+}
+
+.u-block-d25d-3 {
+  position: absolute;
+  left: 0;
+}
+
+.u-block-d25d-4 {
+  position: absolute;
+  right: 0;
+}.u-section-2 .u-sheet-1 {
+  min-height: 623px;
+}
+
+.u-section-2 .u-text-1 {
+  margin: 66px 0 0;
+}
+
+.u-section-2 .u-btn-1 {
+  border-style: none;
+  font-weight: 700;
+  font-size: 2.25rem;
+  text-transform: uppercase;
+  margin: 45px auto 60px 13px;
+  padding: 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-btn-1 {
+    margin-left: 0;
+  }
+}
